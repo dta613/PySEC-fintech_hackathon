@@ -1,1 +1,1 @@
-# PySEC-fintech_hackathon
+# PySEC-fintech
